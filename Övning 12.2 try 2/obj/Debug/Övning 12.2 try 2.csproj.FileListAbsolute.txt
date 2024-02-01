@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Övning 12.2 try 2\Övning 12.2 try 2\obj\Debug\Övning 12.2 try 2.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Övning 12.2 try 2\Övning 12.2 try 2\obj\Debug\Övning_12._2_try_2.Form1.resources
+C:\Users\Administrator\source\repos\Övning 12.2 try 2\Övning 12.2 try 2\obj\Debug\Övning_12._2_try_2.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Övning 12.2 try 2\Övning 12.2 try 2\obj\Debug\Övning 12.2 try 2.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Övning 12.2 try 2\Övning 12.2 try 2\obj\Debug\Övning 12.2 try 2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Övning 12.2 try 2\Övning 12.2 try 2\bin\Debug\Övning 12.2 try 2.exe.config
+C:\Users\Administrator\source\repos\Övning 12.2 try 2\Övning 12.2 try 2\bin\Debug\Övning 12.2 try 2.exe
+C:\Users\Administrator\source\repos\Övning 12.2 try 2\Övning 12.2 try 2\bin\Debug\Övning 12.2 try 2.pdb
+C:\Users\Administrator\source\repos\Övning 12.2 try 2\Övning 12.2 try 2\obj\Debug\Övning 12.2 try 2.exe
+C:\Users\Administrator\source\repos\Övning 12.2 try 2\Övning 12.2 try 2\obj\Debug\Övning 12.2 try 2.pdb
